@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties reasons for withdrawing himself from Rochester wrote with his own hand and ordered by him to be published. : reasons why in this conjuncture no alteration should be made in the government of the Church of Scotland, / by a sincere Protestant and a lover of his country.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87489</idno>
+            <idno type="STC">Wing J376B</idno>
+            <idno type="STC">ESTC R179598</idno>
+            <idno type="EEBO-CITATION">43078089</idno>
+            <idno type="OCLC">ocm 43078089</idno>
+            <idno type="VID">151581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151581)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1786:17 or 2265:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties reasons for withdrawing himself from Rochester wrote with his own hand and ordered by him to be published. : reasons why in this conjuncture no alteration should be made in the government of the Church of Scotland, / by a sincere Protestant and a lover of his country.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>[5], 4 [i.e. 6]-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Printed in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Item at reel 1786:17 identified as Wing W2477 (number cancelled).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Abdication, 1688.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151581:1"/>
+            <!-- PDF PAGE 109 -->
+            <p>HIS MAJESTIES Reaſons for Withdrawing Himſelf from ROCHESTER, Wrote with His own Hand and Ordered by Him to be PUBLISHED.</p>
+            <p>REASONS Why in this Conjuncture no Alteration ſhould be made in the GOVERNMENT of the CHURCH of SCOTLAND, BY A SINCERE PROTESTANT AND A LOVER OF HIS COUNTRY.</p>
+            <p>Printed in the Year, 1689.</p>
+            <pb facs="tcp:151581:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:151581:2"/>
+            <!-- PDF PAGE 110 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:151581:3"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:151581:3"/>
+            <!-- PDF PAGE 111 -->
+            <head>HIS MAJESTIES REASONS, FOR Withdrawing Himſelf from <hi>Rocheſter.</hi>
+            </head>
+            <head type="sub">Wrote with his own hand, and ordered by him to be publiſhed.</head>
+            <p>THE World cannot wonder at my withdrawing my ſelf, now this ſecond time, I might have expected ſome what better uſage, after what I wrote to the <hi>prince of Orange,</hi> by my Lord <hi>Feverſham,</hi> and the Inſtructions I gave him; But inſtead of an Anſwer, ſuch as I might have hoped for, What was to expect after the uſage I received by the making the ſaid Earl a priſoner againſt the practiſe and Law of Nations?</p>
+            <p>The ſending his own Guards at eleven at night, to take poſſeſſi<g ref="char:EOLhyphen"/>on of the poſts at <hi>White hall,</hi> without advertiſing me in the leaſt manner of it, The ſending 'o me at one a clock, after midnight, when I was in Bed, a kind of an Order by three Lords, to begone out of my own palace, before twelve that ſame Morning. After all this how ſhould I hope to be ſafe, ſo long as I was in the power of one, who had not only done this to me, and invaded my King<g ref="char:EOLhyphen"/>doms, without any juſt cauſe given him for it? But that did by his firſt Declaration, lay the greateſt Aſperſion upon me, that malice could invent, in that clauſe of it which concerns my Son: I appeal to all that know me, nav even to himſelf, that in their Conſciences, neither he nor they can believe me in the leaſt capable of ſo unna<g ref="char:EOLhyphen"/>tural a Villany, nor of ſo little common ſenſe, to be imp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on in a thing of ſuch a Nature as that. What had I then to expect from one, who by all Arts hath taken ſuch pains, to make me ap<g ref="char:EOLhyphen"/>pear as black as hell to my own people, as well as to all the World beſides? What effect that hath had at home, all Mankind have ſeen by ſo general a Defection in my Army, as well as in the Nation
+<pb facs="tcp:151581:4"/>
+               <!-- PDF PAGE 112 -->amongſt all ſort of people.</p>
+            <p>I was Born Free, and deſire to continue ſo, And tho I have ven<g ref="char:EOLhyphen"/>tured my ſelf very frankly, on ſeveral Occaſions for the good and honour of my Country, and am as free to do it again, (and which I hope I ſhall yet do, as old as I am, to redeem it from the ſlavery, it is like to fall under;) Yet I think it not convenient to expoſe my ſelf to be ſecured, as not to be at Liberty to effect it; and for that Reaſon I withdrew, but ſo as to be within call, when ſoever the Na<g ref="char:EOLhyphen"/>tions Eyes ſhall be opened, ſo as to ſee how they have been abuſed, and impoſed upon by the ſpecious pretences of Religion and pro<g ref="char:EOLhyphen"/>perty. I hope it will pleaſe GOD. to touch their Hearts, out of his <hi>infinite mercy,</hi> and to make them ſenſible of the ill condition they are in, and bring them to ſuch a temper, that a Legal Parliament may be called; and that amongſt other things which may be neceſſary to be done, they will agree to Liberty of Conſcience for all <hi>Prote<g ref="char:EOLhyphen"/>ſtant Diſſenters;</hi> And that thoſe of my own perſwaſion may be ſo far conſidered, and have ſuch a ſhare in it, as they may live peace<g ref="char:EOLhyphen"/>ably and quietly, as <hi>Engliſh-men,</hi> and <hi>Chriſtians</hi> ought to do, and not to be obliged to transport themſelves, which would be very grie<g ref="char:EOLhyphen"/>vous, eſpecially to ſuch as love thier own Countrey: And I appeal to all, who are conſidering Men, and have had Experience, Whether any thing can make this Nation ſo great in flouriſhing, as <hi>Liberty of Conſcience?</hi> Some of our Neighbours dread it. I could add much more to confirm all I have ſaid, but now is not the proper time,</p>
+            <closer>
+               <dateline>ROCHESTER, <date>December 22d. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="defense_of_church_government">
+            <pb facs="tcp:151581:4"/>
+            <!-- PDF PAGE 112 -->
+            <head>REASONS Why in this Conjuncture no Alteration ſhould be made in the GOVERNMENT of the CHURCH of SCOTLAND By a Sincere PROTESTANT and a Lover of His COUNTREY.</head>
+            <p>BEcauſe the preſent <hi>i. e.</hi> the <hi>Epiſcopal Government</hi> has not only the Advantages of <hi>Apoſtolick Inſtitution,</hi> and univerſal reception by all Churches, ſince the firſt propagation of <hi>Chriſtianity,</hi> (it being impoſſible in all the Authentick Records of the Church, to find ſo much as one ſingle Church, Governed by meer <hi>Presbyters,</hi> till the <hi>16th.</hi> Century;) but alſo by Experience it is found to be the beſt Adapted for the preſervation of Order, Peace, Unity, <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1. The Tyrrany of <hi>Presbytrie</hi> is unſupportable, as is evident from all the Hiſtories of the late times, many man are yet alive who knew this by Experience.</p>
+            <p n="3">3. The moſt part of the Nobility, Gentry and Burgeſſes of this Nation have taken the <hi>Teſt,</hi> and thereby ſworn againſt Presbytrie, by conſequence, ſuch can never conſent to, or vote for the Introducti<g ref="char:EOLhyphen"/>on of Presbytry or the Abolition of Epiſcopacy, nor chuſe ſuch Commiſſioners, as will probably Vote ſo, without the evident haz<g ref="char:EOLhyphen"/>ard of Perjury; eſpecially conſidering,</p>
+            <p n="4">4. That it Presbytry be Eſtabliſhed, the <hi>Covenants</hi> muſt be renewed, as is evident not only from the preſent proceedings of the Presbyte<g ref="char:EOLhyphen"/>terian Preachers, who refer manifeſtly to them in their Addreſs lately
+<pb n="4" facs="tcp:151581:5"/>
+               <!-- PDF PAGE 113 -->deſigned for the <hi>Prince of Orange,</hi> and have made the breach of them one of the principal Arguments for their late Faſt, but alſo from the Natural Exigencies of the Thing, it being hardly imaginable u<g ref="char:EOLunhyphen"/>pon what other Foundation the Reſtitution of <hi>Presbytry</hi> can be claim<g ref="char:EOLhyphen"/>ed. Briefly, <hi>Presbytry</hi> cannot be ſettled but upon the Acts of the <hi>General Aſſemblies Anno</hi> 1638. and downward, and the Acts of the Correſpondent Reſciended Parliaments? or elſe it muſt begin on a new Foundation. It it begin on a new Foundation, then the preſent ſeparation of the <hi>Presbyterians</hi> from the Church: as by all Law eſta<g ref="char:EOLhyphen"/>bliſhed muſt needs be condemned, if being made on no tollerable pretences, a thing which by all means they muſt avoid. If it ſtand, upon the old Found, then all theſe Acts of Parliaments and Gene<g ref="char:EOLhyphen"/>ral Aſſemblies from the 38. to the 61. muſt revive; and by Conſe<g ref="char:EOLhyphen"/>quence theſe Acts that oblidge all Perſons under the higheſt penalties, Civil and Eccleſiaſtical, to ſwear the <hi>Covenants.</hi> But if the <hi>Covenants</hi> revive (beſides the Material iniquities, particularly of the <hi>Solemn League</hi>) it will unavoidably make the moſt conſiderable part of the Nation either perjured or Miſerable. All theſe muſt be perjured who have taken the Declaration, Teſt, <hi>&amp;c.</hi> and yet ſhall take the Covenants, and all ſuch muſt be miſerable, who will not take them.</p>
+            <p n="5">5. I he Reſtitution of <hi>Presbyters,</hi> will evidently have theſe further de<g ref="char:EOLhyphen"/>plorable Effects among many others. <hi>Firſt,</hi> No man who has been any ways active in the execution of the Laws, or in the Kings ſervice, or for the preſent Churches intereſt: but will be in eminent haz<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds of ſinning, and being rendred uncapable of all publick Truſts, ei<g ref="char:EOLhyphen"/>ther Civil or Eccleſiaſtical, or elſe he muſt do publick pennance for what he has done. This is already Condeſcended on, and vented by the <hi>Presbyterian</hi> partie. <hi>2dly,</hi> All that have taken the <hi>Teſt</hi> will be oblidged to renounce it, and ſubmit to Eccleſiaſtical Cenſures (per<g ref="char:EOLhyphen"/>haps to Civil too) for having taken it. <hi>3dly,</hi> All that have receiv<g ref="char:EOLunhyphen"/>ed <hi>Epiſcopal Ordinations</hi> or (being <hi>Laymen</hi>) have at any time Acte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by vertue of <hi>Epiſcopal Commiſſions,</hi> muſt expect the ſame meaſures; for all theſe things are not only naturally conſequent upon the Re<g ref="char:EOLhyphen"/>ſtitution of <hi>Presbytry,</hi> but are actually reſolved upon by that party. But above all theſe, whether Noblemen or Gentlemen, who have at any time appeared in Arms, for Quaſhing the late Rebellion; in the <hi>Weſt, Pictland Hills, Bothwel Bridge, &amp;c.</hi> are threatned with the ſevereſt corrections, and reckoned the <hi>Arch-hereticks.</hi> None of theſe
+<pb n="5" facs="tcp:151581:5"/>
+               <!-- PDF PAGE 113 -->things be, not only a great part of the <hi>Laity</hi> of the Nation, muſt be reduced to ſad ſtraits, both in relation to Conſcience and Intereſt: but alſo, all the preſent conforming <hi>Clergy</hi> moſt be quite turned out it being unpreſumable that they can ſubmit to theſe impoſitions. But if they ſhall be turned out (beſides the evident ſtraits and ne<g ref="char:EOLhyphen"/>ceſſities, ſo many Families muſt be Redacted to, wherein yet the Gentrey of the Nation are Generally concerned) the Church will be left almoſt intirely Deſtitute of Paſtors, there being not ſo many tollerable Qualified Men of the <hi>Presbyterian perſwaſion</hi> as can fill the <hi>5th.</hi> or <hi>6th.</hi> part of the Churches of the Nation.</p>
+            <p n="6">6. It <hi>Presbytry</hi> ſhall not be thus eſtabliſhed in its Integrity, but all the alteration ſhal be a <hi>Non-Epiſcopacy,</hi> and the preſent Incumbants ſhal be permitted to continue in their Offices and Stations, our deplorable Schiſms and Diviſions, will continue without Remedie, as is evident to any conſidering Perſon, or elſe the <hi>Magiſtrate</hi> muſt intirely take upon him the Government and Diſcipline of the Church, and we muſt inſtead of true Church Government, have down right <hi>Eraſti<g ref="char:EOLhyphen"/>aniſm.</hi>
+            </p>
+            <p n="7">7. The eſtabliſhment of <hi>presbytry</hi> or <hi>Eraſtianiſm</hi> in this Kingdom, will naturally tend to have a moſt pernicious influence upon the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Intereſt</hi> within this Iſland of <hi>Britain,</hi> if ever <hi>popery</hi> ſhall offer a<g ref="char:EOLhyphen"/>gain to ſet up its Head. The Church of <hi>Scotland,</hi> and the Church of <hi>England</hi> will ſtand on different bottoms, and ſo will be obliged to defend themſelves upon different principles, and by different Argu<g ref="char:EOLhyphen"/>ments, which ('tis to be fear'd) will prove hard for <hi>Scotland.</hi> We find by experience that the <hi>Engliſh Clergy</hi> have kept their <hi>ground brave<g ref="char:EOLhyphen"/>ly</hi> againſt <hi>popery.</hi> In point of Argument, no <hi>Proteſtant</hi> Church has ever juſtified her ſelf ſo well upon ſo ſolid grounds, and that upon the ac<g ref="char:EOLhyphen"/>count of her <hi>Epiſcopal conſtitution,</hi> by which her Ordinations are clear, and the Miſſion of her Officers unquarrellable by the <hi>papiſts.</hi> By defending Her ſelf, She hath hitherto defended us likewiſe becauſe we are built upon the ſame. Foundation. But if we ſhall now begin upon another Foundation, we muſt divide from her, and that will weaken her affection towards us, and her concern in us, and we muſt ſtand by our ſelves: Yet God knows how unable we are to ſubſiſt without her aſſiſtance. The <hi>papiſts</hi> love extraordinarly to Fiſh in troubled Watters, and to ſee <hi>proteſtants</hi> divided, if therefore we caſt out with <hi>England</hi> (as we muſt needs do if we turn down Epiſcopacy)
+<pb n="8" facs="tcp:151581:6"/>
+               <!-- PDF PAGE 114 -->we ſhall give the <hi>Papiſts</hi> more advantage then moſt people are a<g ref="char:EOLhyphen"/>ware of.</p>
+            <p n="8">8. To endeavour the Reſtitution of <hi>Presbytery</hi> at this Juncture will undou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly diſoblidge the <hi>Princeſs of Orange,</hi> who has from her Intancy been Educate in the Communion of the <hi>Church of England,</hi> and ſtill has profeſt her ſelf of <hi>Epiſcopal principles.</hi> It will diſoblige the <hi>Prince of Orange,</hi> who (as we are uncontravertibly informed) has no incli<g ref="char:EOLhyphen"/>nations at all that the Government of this Church ſhould be changed. Our <hi>Scotiſh Nobility</hi> who are now at <hi>London</hi> are generally (4 or 5. Lords only excepted) reſolved to ſtand by the preſent eſtabliſhment of the Church. Very many of the Gentry who are there, who at their firſt coming thither, were cold and careleſs ſeeing now further into the <hi>Presbyterian</hi> deſigns then they did before, find it their con<g ref="char:EOLhyphen"/>cern to Eſpouſe the preſent Churches intereſt, I hoſe of the <hi>Presbyteri<g ref="char:EOLhyphen"/>an perſwaſion</hi> are not the <hi>5th.</hi> or <hi>6th.</hi> part of the people of the Nation, and generally people of mean both knowledge and Quality. Theſe things laid together may perſwade any Ingenious Man to befriend the preſent eſtabliſhment.</p>
+            <p n="9">9. And what tho' it be true that ſome of our preſent Biſhops have done things, and made condeſcentions, perhaps not entirely becoming their Character? any man can eaſily diſtinguiſh between the Order and the Perſons, Let the Perſons who have been guilty ſmart for it in Gods Name, but why ſhould the Order be rumed for their Miſ<g ref="char:EOLhyphen"/>carriages? Let all poſſible care be taken to prevent ſuch failings; for the Future; Let there be a Convocation of the <hi>Clergy</hi> in due ſeaſon, let us have <hi>Canons</hi> for regulating the exerciſe of the Government and Diſcipline of the Church; Let the Explanatory Act be reſcinded and the Church be made a little more indeperdent on the Crown. So that Biſhops may not be turned out of their Chairs without a Legal Tryal: Let convenient Reſtraints be laid upon them, that they meddle not too much in Secular Affairs. Let theſe and ſuch other uſual Regulations be made, but let the Order be preſerved.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151581:6"/>
+            <!-- PDF PAGE 114 -->
+         </div>
+      </body>
+   </text>
+</TEI>
